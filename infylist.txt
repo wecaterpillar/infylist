@@ -1,6 +1,15 @@
 .ad.infosys.com
 ||www.infosys.com
+infybubble
+iscls2apps
 iscls4apps
+isgenapps
+icount
 sparshv2
+sgicas
+evbl1355
 labstorm
+goedge
 10.221.*.*
+
+
