@@ -2,27 +2,28 @@
 
 # Force some domains which are pollution while resolving DNS
 
-DOMAIN-KEYWORD,google,PROXY,force-remote-dns
+# DOMAIN-KEYWORD,google,PROXY,force-remote-dns
+DOMAIN-KEYWORD,google,PROXY
 
-DOMAIN-KEYWORD,facebook,PROXY,force-remote-dns
+DOMAIN-KEYWORD,facebook,PROXY
 
-DOMAIN-KEYWORD,youtube,PROXY,force-remote-dns
+DOMAIN-KEYWORD,youtube,PROXY
 
-DOMAIN-KEYWORD,twitter,PROXY,force-remote-dns
+DOMAIN-KEYWORD,twitter,PROXY
 
-DOMAIN-KEYWORD,instagram,PROXY,force-remote-dns
+DOMAIN-KEYWORD,instagram,PROXY
 
-DOMAIN-KEYWORD,gmail,PROXY,force-remote-dns
+DOMAIN-KEYWORD,gmail,PROXY
 
-DOMAIN-SUFFIX,twimg.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,PROXY
 
-DOMAIN-SUFFIX,t.co,PROXY,force-remote-dns
+DOMAIN-SUFFIX,t.co,PROXY
 
-DOMAIN-SUFFIX,kenengba.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,kenengba.com,PROXY
 
-DOMAIN-SUFFIX,akamai.net,PROXY,force-remote-dns
+DOMAIN-SUFFIX,akamai.net,PROXY
 
-DOMAIN-KEYWORD,bbc,PROXY,force-remote-dns
+DOMAIN-KEYWORD,bbc,PROXY
 
 # Remove these lines below if you don't have trouble accessing Apple resources
 
@@ -186,7 +187,7 @@ DOMAIN-SUFFIX,angularjs.org,PROXY
 
 DOMAIN-SUFFIX,appspot.com,PROXY
 
-DOMAIN-SUFFIX,akamaihd.net,PROXY,force-remote-dns
+DOMAIN-SUFFIX,akamaihd.net,PROXY
 
 DOMAIN-SUFFIX,amazon.com,PROXY
 
@@ -242,7 +243,7 @@ DOMAIN-SUFFIX,eurekavpt.com,PROXY
 
 DOMAIN-SUFFIX,fb.me,PROXY
 
-DOMAIN-SUFFIX,fbcdn.net,PROXY,force-remote-dns
+DOMAIN-SUFFIX,fbcdn.net,PROXY
 
 DOMAIN-SUFFIX,fc2.com,PROXY
 
@@ -334,11 +335,11 @@ DOMAIN-SUFFIX,thepiratebay.org,PROXY
 
 DOMAIN-SUFFIX,tumblr.com,PROXY
 
-DOMAIN-SUFFIX,twimg.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,twimg.com,PROXY
 
 DOMAIN-SUFFIX,twitch.tv,PROXY
 
-DOMAIN-SUFFIX,twitter.com,PROXY,force-remote-dns
+DOMAIN-SUFFIX,twitter.com,PROXY
 
 DOMAIN-SUFFIX,wikipedia.com,PROXY
 
