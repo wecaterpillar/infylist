@@ -381,6 +381,16 @@ DOMAIN-SUFFIX,medium.com,DIRECT
 
 DOMAIN-SUFFIX,outlook.com,DIRECT
 
+DOMAIN-SUFFIX,clubhouseapi.com,PROXY
+
+DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com,PROXY
+
+DOMAIN-SUFFIX,maintenance.joinclubhouse.com,PROXY
+
+DOMAIN-SUFFIX,clubhouse.pubnub.com,PROXY
+
+DOMAIN-SUFFIX,ap3.agora.io,PROXY
+
 # LAN
 IP-CIDR,192.168.0.0/16,DIRECT
 
